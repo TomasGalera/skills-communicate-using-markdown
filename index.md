@@ -13,3 +13,7 @@ probando como poner distintos tipos de Headers
 ``` javascript
 var saludo = "Hola, todo bien?"
 ```
+
+- [x] Terminar tarea
+- [x] Hacer curso
+- [ ] Dormir siesta
